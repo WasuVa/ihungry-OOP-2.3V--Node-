@@ -269,9 +269,9 @@ private Burger burger;
                         burgerController.generateOrderID();
                     } catch (IOException ex) {
                     }
-                    } else {
-                        JOptionPane.showMessageDialog(this, "Update Fail.");
-                    }
+                    }//else {
+//                        JOptionPane.showMessageDialog(this, "Update Fail.");
+//                    }
         }
     }//GEN-LAST:event_btnUoderActionPerformed
 
